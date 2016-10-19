@@ -61,7 +61,7 @@
         {
             "type": "vcs",
             "url": "http://github.com/egerheed/date"
-        },
+        }
     ],
     "autoload": {
         "files": [
