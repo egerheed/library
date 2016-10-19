@@ -57,6 +57,12 @@
         "october/support": "self.version",
         "october/translation": "self.version"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://github.com/egerheed/date"
+        },
+    ],
     "autoload": {
         "files": [
             "src/Support/helpers.php",
